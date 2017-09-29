@@ -39,7 +39,7 @@ def third_challenge
 
        matriarch: {
          name: "Lady Capulet",
-         age: "52"
+         age: "51"
        },
 
        heroine: {
