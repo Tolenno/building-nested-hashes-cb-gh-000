@@ -25,7 +25,7 @@ def first_challenge
           age: "30",
           attitude: "confused"
         }
-        ]
+      ]
       }
       capulet: {
         patriarch: {
