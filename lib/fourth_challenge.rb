@@ -48,7 +48,7 @@ def fourth_challenge
          status: "alive"
        },
 
-       hero_friends: [
+       heroine_friends: [
          {
            name: "Mercutio",
            age: "18",
