@@ -24,9 +24,9 @@ def fourth_challenge
          attitude: "worried"
        },
        {
-         name: "Steven",
-         age: "30",
-         attitude: "confused"
+         name: "Mercutio",
+         age: "18",
+         attitude: "hot-headed"
        }
      ]
    },
