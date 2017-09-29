@@ -50,9 +50,9 @@ def fourth_challenge
 
        heroine_friends: [
          {
-           name: "Mercutio",
-           age: "18",
-           attitude: "hot-headed"
+           name: "Steven",
+           age: "30",
+           attitude: "confused"
          },
 
          {
