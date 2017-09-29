@@ -1,9 +1,12 @@
 def first_challenge
    epic_tragedy = {
-     montague: 
+     montague:
       patriarch:
         name: "Lord Capulet",
-        age: "50"
-     capulet: ""
+        age: "50",
+      matriarch:
+        name: "Lady Capulet"
+        age: "52"
+      
    }
 end
