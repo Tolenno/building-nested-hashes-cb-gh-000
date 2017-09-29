@@ -26,7 +26,7 @@ def first_challenge
           attitude: "confused"
         }
       ]
-      }
+    },
       capulet: {
         patriarch: {
           name: "Lord Capulet",
