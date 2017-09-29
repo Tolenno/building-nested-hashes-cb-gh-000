@@ -4,7 +4,7 @@ def first_challenge
       patriarch: {
         name: "Lord Montague",
         age: "53",
-      }        
+      }
       matriarch: {
         name: "Lady Montague",
         age: "54"
@@ -20,6 +20,11 @@ def first_challenge
           age: "17",
           attitude: "worried"
           }
+        {
+          name: "Steven",
+          age: "30",
+          attitude: "confused"
+        }
         ]
       }
    }
